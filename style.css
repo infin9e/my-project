@@ -1,0 +1,32 @@
+header{
+    background-color: #2e67a0;
+}
+body{
+    background-color: rgb(158, 224, 247);
+}
+a{
+    color: white;
+}
+ footer{
+    background-color: #2e67a0;
+ }
+ h1{
+    color: white;
+    
+ }
+ .ii{
+    width: 100px;
+    height: 100px;
+    float: left;
+ }
+ p{
+    color: rgb(52, 73, 105);
+ }
+ .ii2{
+    width: 100px;
+    height: 100px;
+    float: right;
+ }
+ .ch{
+    color: #184068;
+ }
