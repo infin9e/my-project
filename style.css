@@ -18,6 +18,7 @@ a{
     width: 100px;
     height: 100px;
     float: left;
+    border-radius: 20%;
  }
  p{
     color: rgb(52, 73, 105);
@@ -26,6 +27,7 @@ a{
     width: 100px;
     height: 100px;
     float: right;
+    border-radius: 20%;
  }
  .ch{
     color: #184068;
